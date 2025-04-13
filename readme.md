@@ -1,3 +1,10 @@
+<html lang="en">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="My first GitHub page with a cat image.">
+  <meta name="keywords" content="GitHub, HTML, CSS, cat image">
+  <meta name="author" content="Your Name">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,3 +33,4 @@
 <div class= intro> Hey, just testing out this github stuff. 
 Here's a picture of my cat: </div>
 <img src="cat.jpg" alt="My Image" width="106" height="206"> 
+</html>
