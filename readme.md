@@ -5,7 +5,6 @@
   <meta name="description" content="My first GitHub page with a cat image.">
   <meta name="keywords" content="GitHub, HTML, CSS, cat image">
   <meta name="author" content="Your Name">
-<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
